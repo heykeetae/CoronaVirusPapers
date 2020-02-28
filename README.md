@@ -5,7 +5,7 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
 
 ## To-do list (논문 업로드 및 정리 계획)
 
-* [ ] Upload newly published papers in a timely manner.
+* [ ] Upload newly published papers in a timely manner. \n
       새로이 게재되는 논문의 실시간 반영
 * [ ] Quick summary added for papers or groups of papers.
       중요 논문 혹은 여러 논문에 대한 요약 및 그 시사성 정리
