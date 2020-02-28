@@ -21,8 +21,8 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
   아래 논문들은 대표적인 생물학 관련 논문 사이트인 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)에서 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19' 등의 키워드를 활용하여 수집되었음
 
 | Date (날짜)   | Author (저자)   | Title (제목)| Journal (게재 저널) |
-| :-----------: |:-------------:|:---------------------------------------|:------|
-| 2020-02-27     | Ai et al. | Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://www.ncbi.nlm.nih.gov/pubmed/32101510) | *Radiology* |
+| :----------------: |:----------------:|:---------------------------------------|:----------|
+| 2020-02-27     | Ai et al. | [Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://www.ncbi.nlm.nih.gov/pubmed/32101510) | *Radiology* |
 
 
 
