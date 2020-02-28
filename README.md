@@ -1,4 +1,4 @@
-# Novel Coronavirus Papers Archive <sub>(코로나바이러스 연구 결과) </sub>
+# Novel Coronavirus Papers Archive <sub> 코로나바이러스 연구 결과 모음 </sub>
   
 Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the world, also being a pressing issue in Korea. Reflecting the gravity of the serious illness, this repository will serve as a brief introduction to recent academic papers on the virus, possibly helping people (koreans) more informed with what's been researched over the virus across the globe. Initially this repository will be composed of a list of corona virus, which will be organized by similarity and (personally) commented based on their significance. 
 
