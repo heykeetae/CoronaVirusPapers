@@ -24,7 +24,6 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
 
 |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
 |:---:|:---:|:---------------:|:---:|
-
 | 2020-02-28|  Jernigan et al.|  [Update: Public Health Response to the Coronavirus Disease 2019 Outbreak - United States, February 24, 2020.](https://www.ncbi.nlm.nih.gov/pubmed/32106216)|  *MMWR. Morbidity and mortality weekly report*| 
 | 2020-02-28|  Rasmussen et al.|  [Coronavirus Disease 2019 (COVID-19) and Pregnancy: What obstetricians need to know.](https://www.ncbi.nlm.nih.gov/pubmed/32105680)|  *American journal of obstetrics and gynecology*| 
 | 2020-02-28|  Lee et al.|  [COVID-19 pneumonia: what has CT taught us?](https://www.ncbi.nlm.nih.gov/pubmed/32105641)|  *The Lancet. Infectious diseases*| 
