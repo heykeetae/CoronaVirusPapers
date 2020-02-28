@@ -11,7 +11,7 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
       중요 논문 혹은 여러 논문에 대한 요약 및 그 시사성 정리
 * [ ] Sort papers by date, nation and its nature.<br />
       날짜와 국가, 그리고 그 성격을 기준으로 한 논문의 정리
-* [-] Paper list (past papers planned to be updated by 2/29/2020)<br />
+* [x] Paper list (past papers planned to be updated by 2/29/2020)<br />
       공개된 논문의 정리 (기존 논문은 2/29/2020까지 정리 예정)
 
 
