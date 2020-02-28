@@ -9,6 +9,13 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
 * [ ] Sort papers by date, nation and its nature.
 * [ ] Paper list (past papers planned to be updated by 2/29/2020)
 
+## 업데이트 계획
+
+
+* [ ] Quick summary added for papers or groups of papers
+* [ ] Sort papers by date, nation and its nature.
+* [ ] Paper list (past papers planned to be updated by 2/29/2020)
+
 ## Paper list
 
 - Paper search has been systematically done, mostly within [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/), with the keywords, 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19'. 
