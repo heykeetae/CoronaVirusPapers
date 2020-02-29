@@ -1,7 +1,7 @@
 ## Paper list from top 30 journals
 
-- Given [all papers](./allpapers.md) collected, papers pulished in high-impact journals are sorted and listed here.
-- Papers from [top 30 journals](./topj.md) (from all journals which published at least once sorted by impact factor (IF)).
+> Given [all papers](./allpapers.md) collected, papers pulished in high-impact journals are sorted and listed here.
+> Papers from [top 30 journals](./topj.md) (from all journals which published at least once sorted by impact factor (IF)).
   현재 바이러스 관련 논문을 발표한 저널 중 논문 인용지수 (IF) 기준 TOP 30개의 논문만을 이곳에 리스트업하였음
   
 |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
