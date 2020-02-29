@@ -37,6 +37,7 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
 - Paper search has been systematically done, mostly within [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/), with the keywords, 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19'. <br />
   아래 논문들은 대표적인 생물학 관련 논문 사이트인 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)에서 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19' 등의 키워드를 활용하여 수집되었음
 
+[All papers link (전체 논문 링크)](./papers/allpapers.md)
 
 |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
 |:---:|:---:|:---------------:|:---:|
