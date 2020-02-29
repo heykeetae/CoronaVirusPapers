@@ -1,7 +1,7 @@
-## All papers
+## All Papers <sub>전체 논문 리스트</sub>
 
-- Paper search has been systematically done, mostly within [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/), with the keywords, 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19'. <br />
-  아래 논문들은 대표적인 생물학 관련 논문 사이트인 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)에서 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19' 등의 키워드를 활용하여 수집되었음
+- Paper search has been done systematically, mostly within [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/), with the keywords, 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19'. <br />
+  논문들은 대표적인 생물학 관련 논문 사이트인 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)에서 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19' 등의 키워드를 활용하여 수집되었음
 
 |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
 |:---:|:---:|:---------------:|:---:|
@@ -9,7 +9,7 @@
 | 2020-02-29|  Xu et al.|  [Clinical and computed tomographic imaging features of Novel Coronavirus Pneumonia caused by SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/pubmed/32109443)|  *The Journal of infection*| 
 | 2020-02-29|  Ji et al.|  [Potential association between COVID-19 mortality and health-care resource availability.](https://www.ncbi.nlm.nih.gov/pubmed/32109372)|  *The Lancet. Global health*| 
 | 2020-02-29|  Wu et al.|  [Clinical Characteristics of Imported Cases of COVID-19 in Jiangsu Province: A Multicenter Descriptive Study.](https://www.ncbi.nlm.nih.gov/pubmed/32109279)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
-| 2020-02-29|  Ebrahim et al.| [Saudi Arabia's measures to curb the COVID-19 outbreak: temporary suspension of the Umrah pilgrimage.](https://www.ncbi.nlm.nih.gov/pubmed/32109274)|  *Journal of travel medicine* |
+| 2020-02-29|  Ebrahim et al.|  [Saudi Arabia`s measures to curb the COVID-19 outbreak: temporary suspension of the Umrah pilgrimage.](https://www.ncbi.nlm.nih.gov/pubmed/32109274)|  *Journal of travel medicine*| 
 | 2020-02-29|  Rocklöv et al.|  [COVID-19 outbreak on the Diamond Princess cruise ship: estimating the epidemic potential and effectiveness of public health countermeasures.](https://www.ncbi.nlm.nih.gov/pubmed/32109273)|  *Journal of travel medicine*| 
 | 2020-02-29|  Guan et al.|  [Clinical Characteristics of Coronavirus Disease 2019 in China.](https://www.ncbi.nlm.nih.gov/pubmed/32109013)|  *The New England journal of medicine*| 
 | 2020-02-29|  Gates et al.|  [Responding to Covid-19 - A Once-in-a-Century Pandemic?](https://www.ncbi.nlm.nih.gov/pubmed/32109012)|  *The New England journal of medicine*| 
