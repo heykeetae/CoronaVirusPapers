@@ -14,18 +14,19 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
  <p align="center"><img width="95%" src="./logo/journal_wordcloud.png" /></p>
 
 **WordCloud 2: Published Journals** It has been generated based on gross publications of each journal related to COVID-19. Journals with larger words have published more papers. 
- 통계 1: (저널 게재량) 위 그림은 각 저널의 코로나바이러스 관련 논문 게재량을 바탕으로 제작되었음.*
+ 통계 1: (저널 게재량) 위 그림은 각 저널의 코로나바이러스 관련 논문 게재량을 바탕으로 제작되었음.
  
 <br />
 
 ## To-do List <sub>논문 업로드 및 정리 계획</sub>
 
-* [ ] Upload newly published papers in a timely manner. <br />
-      새로이 게재되는 논문의 실시간 반영
+
 * [ ] Quick summary added for papers or groups of papers.<br />
       중요 논문 혹은 여러 논문에 대한 요약 및 그 시사성 정리
 * [ ] Sort papers by date, nation and its nature.<br />
       날짜와 국가, 그리고 그 성격을 기준으로 한 논문의 정리
+* [x] Upload newly published papers in a timely manner. <br />
+      새로이 게재되는 논문의 실시간 반영
 * [x] Paper list (past papers planned to be updated by 2/29/2020)<br />
       공개된 논문의 정리 (기존 논문은 2/29/2020까지 정리 예정)
 
@@ -40,10 +41,12 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
 
 ## All Papers <sub>전체 논문 리스트</sub>
 
+- [**All papers link (전체 논문 링크)**](./papers/allpapers.md)
+
 - Paper search has been done systematically, mostly within [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/), with the keywords, 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19'. <br />
   논문들은 대표적인 생물학 관련 논문 사이트인 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)에서 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19' 등의 키워드를 활용하여 수집되었음
 
-- [**All papers link (전체 논문 링크)**](./papers/allpapers.md)
+
 
 
 
