@@ -1,4 +1,5 @@
 <p align="left"><img width="60%" src="./logo/corona_logo.png" /></p>
+<p align="center"><img width="85%" src="./logo/corona_wordcloud.png" /></p>
 
 # Recent Coronavirus Paper Archive <sub> 코로나바이러스 연구 결과 모음 </sub>
   
