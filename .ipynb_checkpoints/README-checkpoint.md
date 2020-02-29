@@ -31,11 +31,26 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
 
 <br />
 
+## Paper of the day (personal recommendation) <sub>오늘의 추천 논문</sub>
+- will be updated
+
+## High impact journal papers <sub>상위 랭크 저널 논문 리스트</sub>
+
+- [**Papers published on high impact factor (IF>7) journal link (상위 인용지수 저널 논문 링크)**](./papers/topjpapers.md)
+
 ## All Papers <sub>전체 논문 리스트</sub>
+
+- Paper search has been done systematically, mostly within [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/), with the keywords, 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19'. <br />
+  논문들은 대표적인 생물학 관련 논문 사이트인 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)에서 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19' 등의 키워드를 활용하여 수집되었음
 
 - [**All papers link (전체 논문 링크)**](./papers/allpapers.md)
 
-- Paper search has been systematically done, mostly within [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/), with the keywords, 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19'. <br />
-  아래 논문들은 대표적인 생물학 관련 논문 사이트인 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)에서 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19' 등의 키워드를 활용하여 수집되었음
+
+
+
+
+
+
+
 
 
