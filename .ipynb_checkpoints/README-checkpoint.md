@@ -31,7 +31,7 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
 
 <br />
 
-## Paper of the day (personal recommendation) <sub>오늘의 추천 논문</sub>
+## Paper of the day <sub>오늘의 추천 논문</sub>
 - will be updated
 
 ## High impact journal papers <sub>상위 랭크 저널 논문 리스트</sub>

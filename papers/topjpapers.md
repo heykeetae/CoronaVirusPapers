@@ -1,7 +1,7 @@
 ## Paper list from top 30 journals
 
 - Given [all papers](./allpapers.md) collected, papers pulished in high-impact journals are sorted and listed here.
-- Papers from top 30 journals (from all journals which published at least once sorted by impact factor (IF)).
+- Papers from [top 30 journals](./topj.md) (from all journals which published at least once sorted by impact factor (IF)).
   현재 바이러스 관련 논문을 발표한 저널 중 논문 인용지수 (IF) 기준 TOP 30개의 논문만을 이곳에 리스트업하였음
   
 |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
@@ -45,7 +45,7 @@
 | 2020-02-23|  Wong et al.|  [COVID-19 in Singapore-Current Experience: Critical Global Issues That Require Attention and Action.](https://www.ncbi.nlm.nih.gov/pubmed/32077901)|  *JAMA*| 
 | 2020-02-20|  Lipsitch et al.|  [Defining the Epidemiology of Covid-19 - Studies Needed.](https://www.ncbi.nlm.nih.gov/pubmed/32074416)|  *The New England journal of medicine*| 
 | 2020-02-20|  MacLaren et al.|  [Preparing for the Most Critically Ill Patients With COVID-19: The Potential Role of Extracorporeal Membrane Oxygenation.](https://www.ncbi.nlm.nih.gov/pubmed/32074258)|  *JAMA*| 
-| 2020-02-19|  Gu et al.|  [Full spectrum of COVID-19 severity still being depicted - Authors' reply.](https://www.ncbi.nlm.nih.gov/pubmed/32066526)|  *Lancet (London, England)*| 
+| 2020-02-19|  Gu et al.|  [Full spectrum of COVID-19 severity still being depicted - Authors reply.](https://www.ncbi.nlm.nih.gov/pubmed/32066526)|  *Lancet (London, England)*| 
 | 2020-02-19|  Xu et al.|  [Full spectrum of COVID-19 severity still being depicted.](https://www.ncbi.nlm.nih.gov/pubmed/32066525)|  *Lancet (London, England)*| 
 | 2020-02-18|  Heymann et al.|  [COVID-19: what is next for public health?](https://www.ncbi.nlm.nih.gov/pubmed/32061313)|  *Lancet (London, England)*| 
 | 2020-02-18|  Habibi et al.|  [Do not violate the International Health Regulations during the COVID-19 outbreak.](https://www.ncbi.nlm.nih.gov/pubmed/32061311)|  *Lancet (London, England)*| 
@@ -53,7 +53,7 @@
 | 2020-02-28|  Yang et al.|  [Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study.](https://www.ncbi.nlm.nih.gov/pubmed/32105632)|  *The Lancet. Respiratory medicine*| 
 | 2020-02-28|  Bouadma et al.|  [Severe SARS-CoV-2 infections: practical considerations and management strategy for intensivists.](https://www.ncbi.nlm.nih.gov/pubmed/32103284)|  *Intensive care medicine*| 
 | 2020-02-28|  Liu et al.|  [No credible evidence supporting claims of the laboratory engineering of SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/pubmed/32102621)|  *Emerging microbes & infections*| 
-| 2020-02-27|  Pan et al.|  [Challenges and countermeasures for organ donation during the SARS-CoV-2 epidemic: the experience of Sichuan Provincial People's Hospital.](https://www.ncbi.nlm.nih.gov/pubmed/32100062)|  *Intensive care medicine*| 
+| 2020-02-27|  Pan et al.|  [Challenges and countermeasures for organ donation during the SARS-CoV-2 epidemic: the experience of Sichuan Provincial Peoples Hospital.](https://www.ncbi.nlm.nih.gov/pubmed/32100062)|  *Intensive care medicine*| 
 | 2020-02-26|  Letko et al.|  [Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses.](https://www.ncbi.nlm.nih.gov/pubmed/32094589)|  *Nature microbiology*| 
 | 2020-02-23|  Pan et al.|  [Asymptomatic cases in a family cluster with SARS-CoV-2 infection.](https://www.ncbi.nlm.nih.gov/pubmed/32087116)|  *The Lancet. Infectious diseases*| 
 | 2020-02-23|  Yeo et al.|  [Enteric involvement of coronaviruses: is faecal-oral transmission of SARS-CoV-2 possible?](https://www.ncbi.nlm.nih.gov/pubmed/32087098)|  *The lancet. Gastroenterology & hepatology*| 
@@ -65,8 +65,8 @@
 | 2020-02-28|  Ghebreyesus et al.|  [Scientists are sprinting to outpace the novel coronavirus.](https://www.ncbi.nlm.nih.gov/pubmed/32105610)|  *Lancet (London, England)*| 
 | 2020-02-28|  Liang et al.|  [Diarrhoea may be underestimated: a missing link in 2019 novel coronavirus.](https://www.ncbi.nlm.nih.gov/pubmed/32102928)|  *Gut*| 
 | 2020-02-28|  Chen et al.|  [Detectable 2019-nCoV viral RNA in blood is a strong indicator for the further clinical severity.](https://www.ncbi.nlm.nih.gov/pubmed/32102625)|  *Emerging microbes & infections*| 
-| 2020-02-27|  Morens et al.|  [Escaping Pandora's Box - Another Novel Coronavirus.](https://www.ncbi.nlm.nih.gov/pubmed/32101660)|  *The New England journal of medicine*| 
-| 2020-02-20|  Pan et al.|  [How to face the novel coronavirus infection during the 2019-2020 epidemic: the experience of Sichuan Provincial People's Hospital.](https://www.ncbi.nlm.nih.gov/pubmed/32072300)|  *Intensive care medicine*| 
+| 2020-02-27|  Morens et al.|  [Escaping Pandoras Box - Another Novel Coronavirus.](https://www.ncbi.nlm.nih.gov/pubmed/32101660)|  *The New England journal of medicine*| 
+| 2020-02-20|  Pan et al.|  [How to face the novel coronavirus infection during the 2019-2020 epidemic: the experience of Sichuan Provincial Peoples Hospital.](https://www.ncbi.nlm.nih.gov/pubmed/32072300)|  *Intensive care medicine*| 
 | 2020-02-20|  Shu et al.|  [Avoid stigmatizing names for 2019 novel coronavirus.](https://www.ncbi.nlm.nih.gov/pubmed/32071450)|  *Nature*| 
 | 2020-02-18|  Zhang et al.|  [Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes.](https://www.ncbi.nlm.nih.gov/pubmed/32065057)|  *Emerging microbes & infections*| 
 | 2020-02-18|  Tian et al.|  [Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody.](https://www.ncbi.nlm.nih.gov/pubmed/32065055)|  *Emerging microbes & infections*| 
