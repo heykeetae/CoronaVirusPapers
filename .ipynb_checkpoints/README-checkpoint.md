@@ -9,8 +9,13 @@ Novel Coronavirus (also known as cov-2, nCoV, COVID-19) is sweeping over the wor
 <br />
 <p align="center"><img width="95%" src="./logo/corona_wordcloud.png" /></p>
 
- *Wordcloud above has been generated based on gross keywords of all collected papers.
+ *Wordcloud above has been generated based on gross keywords of all collected papers. Larger words were seen more frequently as paper keywords.
  위 그림은 확보한 논문들의 키워드들을 바탕으로 제작되었음.*
+ 
+ <p align="center"><img width="95%" src="./logo/journal_wordcloud.png" /></p>
+
+ *Wordcloud has been generated based on gross publications of each journal related to COVID-19. Journals with larger words have published more papers. 
+ 위 그림은 각 저널의 코로나바이러스 관련 논문 게재량을 바탕으로 제작되었음.*
  
 <br />
 
