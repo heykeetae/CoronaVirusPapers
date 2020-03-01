@@ -1,4 +1,5 @@
 <p align="left"><img width="60%" src="./logo/corona_logo.png" /></p>
+p style="text-align: center;">Quick links: [Notable papers(today)[./papers/topjpapers_today.md], Abstracts(today)[./papers/todayabstract.md], All papers[./papers/allpapers.md]</p>
 
 # Recent Coronavirus Paper Archive <sub> 코로나바이러스 연구 결과 모음 </sub>
   
