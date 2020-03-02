@@ -1,7 +1,7 @@
 <p align="left"><img width="60%" src="./logo/corona_logo.png" /></p>
 
 <p align="center">
-    Quick links: <a href="./papers/topjpapers_today.md">Notable papers(today)</a> |
+    Quick links: <a href="./papers/topjtoday.md">Notable papers(today)</a> |
   <a href="./papers/todayabstract.md">Abstracts(today)</a> |
   <a href="./papers/allpapers.md">All papers</a>
 </p>
@@ -47,7 +47,7 @@
 
 ## High impact journal papers <sub>상위 랭크 저널 논문 리스트</sub>
 
-- [**See high impact journal (IF>7) papers**](./papers/topjpapers.md)
+- [**See high impact journal (IF>7) papers**](./papers/topjall.md)
 
 ## All Papers <sub>전체 논문 리스트</sub>
 
