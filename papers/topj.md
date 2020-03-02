@@ -1,7 +1,9 @@
-## List of top 30 journals (based on current publications and impact factor (IF))
+## High impact Paper list
 
-|**Journal <br /><sub>저널</sub>**|**IF <br /><sub>인용지수</sub>**|
-|:---:|:---:|
+> Given [all papers](./allpapers.md) collected, those pulished in high-impact journals are sorted and listed here.
+> Papers from only [top 30 journals](./topj.md) (from all journals which published at least once sorted by impact factor (IF)).<br />
+  전체 바이러스 관련 논문 중 논문 인용지수 (IF) 기준 TOP 30개 저널에 발표한 논문만을 이곳에 리스트업하였음
+  
 | The New England journal of medicine|  79.258| 
 | Lancet (London, England)|  53.254| 
 | The Lancet. Child & adolescent health|  53.254| 
