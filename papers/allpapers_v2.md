@@ -4,7 +4,7 @@
   논문들은 대표적인 생물학 관련 논문 사이트인 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)에서 'nCoV', 'cov-2', 'coronavirus' or 'COVID-19' 등의 키워드를 활용하여 수집되었음
 
 |**ID** |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
-|:---:|:---:|:---------------:|:---:|
+|:---:|:---:|:---:|:---------------:|:---:|
 |514| 2020-03-01|  Sohrabi et al.|  [World Health Organization declares Global Emergency: A review of the 2019 Novel Coronavirus (COVID-19).](https://www.ncbi.nlm.nih.gov/pubmed/32112977)|  *International journal of surgery (London, England)*| 
 |513| 2020-03-01|  Carinci et al.|  [Covid-19: preparedness, decentralisation, and the hunt for patient zero.](https://www.ncbi.nlm.nih.gov/pubmed/32111645)|  *BMJ (Clinical research ed.)*| 
 |512| 2020-03-01|  Chen et al.|  [A mathematical model for simulating the phase-based transmissibility of a novel coronavirus.](https://www.ncbi.nlm.nih.gov/pubmed/32111262)|  *Infectious diseases of poverty*| 
