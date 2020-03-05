@@ -6,15 +6,9 @@
   
 |**ID** |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
 |:---:|:---:|:---:|:---------------:|:---:|
-|388| 2020-03-03|  Chen et al. et al.|  [Convalescent plasma as a potential therapy for COVID-19.](https://www.ncbi.nlm.nih.gov/pubmed/32113510)|  *The Lancet. Infectious diseases*| 
-|387| 2020-03-03|  Stebbing et al. et al.|  [COVID-19: combining antiviral and anti-inflammatory treatments.](https://www.ncbi.nlm.nih.gov/pubmed/32113509)|  *The Lancet. Infectious diseases*| 
-|386| 2020-03-03|  Nkengasong et al. et al.|  [Looming threat of COVID-19 infection in Africa: act collectively, and fast.](https://www.ncbi.nlm.nih.gov/pubmed/32113508)|  *Lancet (London, England)*| 
-|385| 2020-03-03|  Moss et al. et al.|  [Lessons for managing high-consequence infections from first COVID-19 cases in the UK.](https://www.ncbi.nlm.nih.gov/pubmed/32113507)|  *Lancet (London, England)*| 
-|384| 2020-03-03|  Ebrahim et al. et al.|  [COVID-19: preparing for superspreader potential among Umrah pilgrims to Saudi Arabia.](https://www.ncbi.nlm.nih.gov/pubmed/32113506)|  *Lancet (London, England)*| 
-|383| 2020-03-03|  The Editors Of The Lancet Global Health et al. et al.|  [Retraction-Chinese medical staff request international medical assistance in fighting against COVID-19.](https://www.ncbi.nlm.nih.gov/pubmed/32113504)|  *The Lancet. Global health*| 
-|382| 2020-03-03|  Chatterjee et al. et al.|  [Indian pharma threatened by COVID-19 shutdowns in China.](https://www.ncbi.nlm.nih.gov/pubmed/32113494)|  *Lancet (London, England)*| 
-|378| 2020-03-03|  Huang et al. et al.|  [A family cluster of SARS-CoV-2 infection involving 11 patients in Nanjing, China.](https://www.ncbi.nlm.nih.gov/pubmed/32119823)|  *The Lancet. Infectious diseases*| 
-|370| 2020-03-03|  Liu et al. et al.|  [Secondary attack rate and superspreading events for SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/pubmed/32113505)|  *Lancet (London, England)*| 
-|361| 2020-03-03|  Wang et al. et al.|  [A case of 2019 Novel Coronavirus in a pregnant woman with preterm delivery.](https://www.ncbi.nlm.nih.gov/pubmed/32119083)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
-|359| 2020-03-03|  Spina et al. et al.|  [The response of Milans Emergency Medical System to the COVID-19 outbreak in Italy.](https://www.ncbi.nlm.nih.gov/pubmed/32119824)|  *Lancet (London, England)*| 
-|358| 2020-03-03|  Hellewell et al. et al.|  [Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts.](https://www.ncbi.nlm.nih.gov/pubmed/32119825)|  *The Lancet. Global health*| 
+|408| 2020-03-05|  Yi et al. et al.|  [2019 novel coronavirus is undergoing active recombination.](https://www.ncbi.nlm.nih.gov/pubmed/32130405)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
+|407| 2020-03-05|  Wertheim et al. et al.|  [A glimpse into the origins of genetic diversity in SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/pubmed/32129842)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
+|398| 2020-03-05|  Johansson et al. et al.|  [Open peer-review platform for COVID-19 preprints.](https://www.ncbi.nlm.nih.gov/pubmed/32127711)|  *Nature*| 
+|390| 2020-03-05|  Ong et al. et al.|  [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient.](https://www.ncbi.nlm.nih.gov/pubmed/32129805)|  *JAMA*| 
+|389| 2020-03-05|  Rubin et al. et al.|  [Audio Interview: What Clinicians Need to Know in Diagnosing and Treating Covid-19.](https://www.ncbi.nlm.nih.gov/pubmed/32130833)|  *The New England journal of medicine*| 
+|388| 2020-03-05|  Shen et al. et al.|  [Genomic diversity of SARS-CoV-2 in Coronavirus Disease 2019 patients.](https://www.ncbi.nlm.nih.gov/pubmed/32129843)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
