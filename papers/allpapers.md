@@ -174,7 +174,7 @@
 |247| 2020-02-29|  Gates et al.|  [Responding to Covid-19 - A Once-in-a-Century Pandemic?](https://www.ncbi.nlm.nih.gov/pubmed/32109012)|  *The New England journal of medicine*| 
 |246| 2020-02-29|  Not retrieved|  [Clinical findings in a group of patients infected with the 2019 novel coronavirus (SARS-Cov-2) outside of Wuhan, China: retrospective case series.](https://www.ncbi.nlm.nih.gov/pubmed/32107200)|  *BMJ (Clinical research ed.)*| 
 |245| 2020-02-29|  Zhai et al.|  [Where did SARS-CoV-2 come from?](https://www.ncbi.nlm.nih.gov/pubmed/32108071)|  *The Veterinary record*| 
-|244| 2020-02-29|  Bhattacharya et al.|  [Development of epitope-based peptide vaccine against novel Coronavirus 2019 (SARS-COV-2): Immunoinformatics approach.](https://www.ncbi.nlm.nih.gov/pubmed/32108359)|  *Journal of medical virology*| 
+|244| 2020-02-29|  Bhattacharya et al.|  [Development of epitope-based peptide vaccine against novel coronavirus 2019 (SARS-COV-2): Immunoinformatics approach.](https://www.ncbi.nlm.nih.gov/pubmed/32108359)|  *Journal of medical virology*| 
 |243| 2020-02-29|  Ebrahim et al.|  [Saudi Arabia`s measures to curb the COVID-19 outbreak: temporary suspension of the Umrah pilgrimage.](https://www.ncbi.nlm.nih.gov/pubmed/32109274)|  *Journal of travel medicine*| 
 |242| 2020-02-29|  Gou et al.|  [[Treatment of pancreatic diseases and prevention of infection during outbreak of 2019 coronavirus disease].](https://www.ncbi.nlm.nih.gov/pubmed/32107909)|  *Zhonghua wai ke za zhi [Chinese journal of surgery]*| 
 |241| 2020-02-29|  Tanne et al.|  [Covid-19: Trump says risk to Americans is "very low".](https://www.ncbi.nlm.nih.gov/pubmed/32107254)|  *BMJ (Clinical research ed.)*| 

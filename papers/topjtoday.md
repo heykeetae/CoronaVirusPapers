@@ -6,9 +6,3 @@
   
 |**ID** |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
 |:---:|:---:|:---:|:---------------:|:---:|
-|408| 2020-03-05|  Yi et al. et al.|  [2019 novel coronavirus is undergoing active recombination.](https://www.ncbi.nlm.nih.gov/pubmed/32130405)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
-|407| 2020-03-05|  Wertheim et al. et al.|  [A glimpse into the origins of genetic diversity in SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/pubmed/32129842)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
-|398| 2020-03-05|  Johansson et al. et al.|  [Open peer-review platform for COVID-19 preprints.](https://www.ncbi.nlm.nih.gov/pubmed/32127711)|  *Nature*| 
-|390| 2020-03-05|  Ong et al. et al.|  [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient.](https://www.ncbi.nlm.nih.gov/pubmed/32129805)|  *JAMA*| 
-|389| 2020-03-05|  Rubin et al. et al.|  [Audio Interview: What Clinicians Need to Know in Diagnosing and Treating Covid-19.](https://www.ncbi.nlm.nih.gov/pubmed/32130833)|  *The New England journal of medicine*| 
-|388| 2020-03-05|  Shen et al. et al.|  [Genomic diversity of SARS-CoV-2 in Coronavirus Disease 2019 patients.](https://www.ncbi.nlm.nih.gov/pubmed/32129843)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
