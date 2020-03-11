@@ -6,12 +6,12 @@
   
 |**ID** |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
 |:---:|:---:|:---:|:---------------:|:---:|
-|387| 2020-03-10|  Centor et al. et al.|  [Annals On Call - Understanding the Spread of COVID-19.](https://www.ncbi.nlm.nih.gov/pubmed/32150752)|  *Annals of internal medicine*| 
-|386| 2020-03-10|  Marchand-Senécal et al. et al.|  [Diagnosis and Management of First Case of COVID-19 in Canada: Lessons applied from SARS.](https://www.ncbi.nlm.nih.gov/pubmed/32147731)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
-|376| 2020-03-10|  Ippolito et al. et al.|  [Toning down the 2019-nCoV media hype-and restoring hope.](https://www.ncbi.nlm.nih.gov/pubmed/32146924)|  *The Lancet. Respiratory medicine*| 
-|372| 2020-03-10|  Lauer et al. et al.|  [The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application.](https://www.ncbi.nlm.nih.gov/pubmed/32150748)|  *Annals of internal medicine*| 
-|371| 2020-03-10|  Sharfstein et al. et al.|  [Diagnostic Testing for the Novel Coronavirus.](https://www.ncbi.nlm.nih.gov/pubmed/32150622)|  *JAMA*| 
-|370| 2020-03-10|  Maxwell et al. et al.|  ["The Art of War" in the Era of Coronavirus Disease 2019 (COVID-19).](https://www.ncbi.nlm.nih.gov/pubmed/32147715)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
-|368| 2020-03-10|  Lu et al. et al.|  [Timely development of vaccines against SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/pubmed/32148172)|  *Emerging microbes & infections*| 
-|362| 2020-03-10|  Yao et al. et al.|  [In Vitro Antiviral Activity and Projection of Optimized Dosing Design of Hydroxychloroquine for the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).](https://www.ncbi.nlm.nih.gov/pubmed/32150618)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
-|352| 2020-03-10|  Hao et al. et al.|  [Is SARS-CoV-2 originated from laboratory? A rebuttal to the claim of formation via laboratory recombination.](https://www.ncbi.nlm.nih.gov/pubmed/32148173)|  *Emerging microbes & infections*| 
+|389| 2020-03-11|  Walls et al. et al.|  [Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein.](https://www.ncbi.nlm.nih.gov/pubmed/32155444)|  *Cell*| 
+|383| 2020-03-11|  Chen et al. et al.|  [Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records.](https://www.ncbi.nlm.nih.gov/pubmed/32151335)|  *Lancet (London, England)*| 
+|382| 2020-03-11|  Qiao et al. et al.|  [What are the risks of COVID-19 infection in pregnant women?](https://www.ncbi.nlm.nih.gov/pubmed/32151334)|  *Lancet (London, England)*| 
+|381| 2020-03-11|  Legido-Quigley et al. et al.|  [Are high-performing health systems resilient against the COVID-19 epidemic?](https://www.ncbi.nlm.nih.gov/pubmed/32151326)|  *Lancet (London, England)*| 
+|380| 2020-03-11|  Wenham et al. et al.|  [COVID-19: the gendered impacts of the outbreak.](https://www.ncbi.nlm.nih.gov/pubmed/32151325)|  *Lancet (London, England)*| 
+|379| 2020-03-11|  Wu et al. et al.|  [SARS-CoV-2 is an appropriate name for the new coronavirus.](https://www.ncbi.nlm.nih.gov/pubmed/32151324)|  *Lancet (London, England)*| 
+|378| 2020-03-11|  De Luca et al. et al.|  [Managing neonates with respiratory failure due to SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/pubmed/32151320)|  *The Lancet. Child & adolescent health*| 
+|377| 2020-03-11|  Wang et al. et al.|  [Managing neonates with respiratory failure due to SARS-CoV-2 - Authors reply.](https://www.ncbi.nlm.nih.gov/pubmed/32151318)|  *The Lancet. Child & adolescent health*| 
+|362| 2020-03-11|  Wang et al. et al.|  [The SARS-CoV-2 Outbreak: Diagnosis, Infection Prevention, and Public Perception.](https://www.ncbi.nlm.nih.gov/pubmed/32154877)|  *Clinical chemistry*| 
