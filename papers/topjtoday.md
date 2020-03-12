@@ -6,12 +6,10 @@
   
 |**ID** |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
 |:---:|:---:|:---:|:---------------:|:---:|
-|389| 2020-03-11|  Walls et al. et al.|  [Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein.](https://www.ncbi.nlm.nih.gov/pubmed/32155444)|  *Cell*| 
-|383| 2020-03-11|  Chen et al. et al.|  [Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records.](https://www.ncbi.nlm.nih.gov/pubmed/32151335)|  *Lancet (London, England)*| 
-|382| 2020-03-11|  Qiao et al. et al.|  [What are the risks of COVID-19 infection in pregnant women?](https://www.ncbi.nlm.nih.gov/pubmed/32151334)|  *Lancet (London, England)*| 
-|381| 2020-03-11|  Legido-Quigley et al. et al.|  [Are high-performing health systems resilient against the COVID-19 epidemic?](https://www.ncbi.nlm.nih.gov/pubmed/32151326)|  *Lancet (London, England)*| 
-|380| 2020-03-11|  Wenham et al. et al.|  [COVID-19: the gendered impacts of the outbreak.](https://www.ncbi.nlm.nih.gov/pubmed/32151325)|  *Lancet (London, England)*| 
-|379| 2020-03-11|  Wu et al. et al.|  [SARS-CoV-2 is an appropriate name for the new coronavirus.](https://www.ncbi.nlm.nih.gov/pubmed/32151324)|  *Lancet (London, England)*| 
-|378| 2020-03-11|  De Luca et al. et al.|  [Managing neonates with respiratory failure due to SARS-CoV-2.](https://www.ncbi.nlm.nih.gov/pubmed/32151320)|  *The Lancet. Child & adolescent health*| 
-|377| 2020-03-11|  Wang et al. et al.|  [Managing neonates with respiratory failure due to SARS-CoV-2 - Authors reply.](https://www.ncbi.nlm.nih.gov/pubmed/32151318)|  *The Lancet. Child & adolescent health*| 
-|362| 2020-03-11|  Wang et al. et al.|  [The SARS-CoV-2 Outbreak: Diagnosis, Infection Prevention, and Public Perception.](https://www.ncbi.nlm.nih.gov/pubmed/32154877)|  *Clinical chemistry*| 
+|349| 2020-03-12|  Rubin et al. et al.|  [Audio Interview: Making Decisions about Covid-19 Testing and Treatment for Your Patients.](https://www.ncbi.nlm.nih.gov/pubmed/32160684)|  *The New England journal of medicine*| 
+|347| 2020-03-12|  Nelson et al. et al.|  [COVID-19: time for WHO to reconsider its stance towards Taiwan.](https://www.ncbi.nlm.nih.gov/pubmed/32157235)|  *Nature*| 
+|332| 2020-03-12|  Hollander et al. et al.|  [Virtually Perfect? Telemedicine for Covid-19.](https://www.ncbi.nlm.nih.gov/pubmed/32160451)|  *The New England journal of medicine*| 
+|328| 2020-03-12|  Murthy et al. et al.|  [Care for Critically Ill Patients With COVID-19.](https://www.ncbi.nlm.nih.gov/pubmed/32159735)|  *JAMA*| 
+|325| 2020-03-12|  Klompas et al. et al.|  [Coronavirus Disease 2019 (COVID-19): Protecting Hospitals From the Invisible.](https://www.ncbi.nlm.nih.gov/pubmed/32160299)|  *Annals of internal medicine*| 
+|324| 2020-03-12|  Chopra et al. et al.|  [How Should U.S. Hospitals Prepare for Coronavirus Disease 2019 (COVID-19)?](https://www.ncbi.nlm.nih.gov/pubmed/32160273)|  *Annals of internal medicine*| 
+|320| 2020-03-12|  Wang et al. et al.|  [Detection of SARS-CoV-2 in Different Types of Clinical Specimens.](https://www.ncbi.nlm.nih.gov/pubmed/32159775)|  *JAMA*| 
