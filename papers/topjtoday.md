@@ -6,12 +6,13 @@
   
 |**ID** |**Date <br /><sub>날짜</sub>**|**Author <br /><sub>저자</sub>**| **Title <br /><sub>제목</sub>**| **Journal<br /><sub>저널</sub>** |
 |:---:|:---:|:---:|:---------------:|:---:|
-|346| 2020-03-14|  Zhou et al. et al.|  [COVID-19 with spontaneous pneumomediastinum.](https://www.ncbi.nlm.nih.gov/pubmed/32164830)|  *The Lancet. Infectious diseases*| 
-|345| 2020-03-14|  He et al. et al.|  [What further should be done to control COVID-19 outbreaks in addition to cases isolation and contact tracing measures?](https://www.ncbi.nlm.nih.gov/pubmed/32164708)|  *BMC medicine*| 
-|322| 2020-03-14|  Anderson et al. et al.|  [How will country-based mitigation measures influence the course of the COVID-19 epidemic?](https://www.ncbi.nlm.nih.gov/pubmed/32164834)|  *Lancet (London, England)*| 
-|314| 2020-03-14|  Grasselli et al. et al.|  [Critical Care Utilization for the COVID-19 Outbreak in Lombardy, Italy: Early Experience and Forecast During an Emergency Response.](https://www.ncbi.nlm.nih.gov/pubmed/32167538)|  *JAMA*| 
-|312| 2020-03-14|  Matsuyama et al. et al.|  [Enhanced isolation of SARS-CoV-2 by TMPRSS2-expressing cells.](https://www.ncbi.nlm.nih.gov/pubmed/32165541)|  *Proceedings of the National Academy of Sciences of the United States of America*| 
-|305| 2020-03-14|  Parodi et al. et al.|  [From Containment to Mitigation of COVID-19 in the US.](https://www.ncbi.nlm.nih.gov/pubmed/32167525)|  *JAMA*| 
-|303| 2020-03-14|  Joob et al. et al.|  [18F-FDG PET/CT and COVID-19.](https://www.ncbi.nlm.nih.gov/pubmed/32166511)|  *European journal of nuclear medicine and molecular imaging*| 
-|299| 2020-03-14|  Bryson-Cahn et al. et al.|  [A Novel Approach for a Novel Pathogen: using a home assessment team to evaluate patients for 2019 novel coronavirus (SARS-CoV-2).](https://www.ncbi.nlm.nih.gov/pubmed/32166310)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
-|297| 2020-03-14|  Schwartz et al. et al.|  [Protecting Health Care Workers during the COVID-19 Coronavirus Outbreak -Lessons from Taiwans SARS response.](https://www.ncbi.nlm.nih.gov/pubmed/32166318)|  *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America*| 
+|354| 2020-03-15|  Zhou et al. et al.|  [Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.](https://www.ncbi.nlm.nih.gov/pubmed/32171076)|  *Lancet (London, England)*| 
+|339| 2020-03-15|  Garrett et al. et al.|  [COVID-19: the medium is the message.](https://www.ncbi.nlm.nih.gov/pubmed/32171075)|  *Lancet (London, England)*| 
+|338| 2020-03-15|  Wells et al. et al.|  [Impact of international travel and border control measures on the global spread of the novel 2019 coronavirus outbreak.](https://www.ncbi.nlm.nih.gov/pubmed/32170017)|  *Proceedings of the National Academy of Sciences of the United States of America*| 
+|335| 2020-03-15|  Ebenso et al. et al.|  [Can Nigeria contain the COVID-19 outbreak using lessons from recent epidemics?](https://www.ncbi.nlm.nih.gov/pubmed/32171055)|  *The Lancet. Global health*| 
+|333| 2020-03-15|  Wang et al. et al.|  [Comorbidities and multi-organ injuries in the treatment of COVID-19.](https://www.ncbi.nlm.nih.gov/pubmed/32171074)|  *Lancet (London, England)*| 
+|332| 2020-03-15|  Ayebare et al. et al.|  [Adoption of COVID-19 triage strategies for low-income settings.](https://www.ncbi.nlm.nih.gov/pubmed/32171063)|  *The Lancet. Respiratory medicine*| 
+|331| 2020-03-15|  Fang et al. et al.|  [Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection?](https://www.ncbi.nlm.nih.gov/pubmed/32171062)|  *The Lancet. Respiratory medicine*| 
+|330| 2020-03-15|  Kucharski et al. et al.|  [Early dynamics of transmission and control of COVID-19: a mathematical modelling study.](https://www.ncbi.nlm.nih.gov/pubmed/32171059)|  *The Lancet. Infectious diseases*| 
+|329| 2020-03-15|  Mao et al. et al.|  [Implications of COVID-19 for patients with pre-existing digestive diseases.](https://www.ncbi.nlm.nih.gov/pubmed/32171057)|  *The lancet. Gastroenterology & hepatology*| 
+|328| 2020-03-15|  Cai et al. et al.|  [Sex difference and smoking predisposition in patients with COVID-19.](https://www.ncbi.nlm.nih.gov/pubmed/32171067)|  *The Lancet. Respiratory medicine*| 
